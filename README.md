@@ -32,7 +32,7 @@ We’re building an inclusive, diverse, and globally distributed team of AI enth
 ---
 ### Get in Touch
 
-- **Email**: [your-email@example.com](mailto:sahibzada@singularityresearchlabs.com)  
+- **Email**: [sahibzada@singularityresearchlabs.com](mailto:sahibzada@singularityresearchlabs.com)  
 - **LinkedIn**: (https://www.linkedin.com/in/sahibal/)
 
 Feel free to reach out with questions, ideas, or proposals. Let’s **shape the future of open source AI** together!
