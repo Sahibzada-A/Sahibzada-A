@@ -1,6 +1,6 @@
 # Welcome to My Open Source AI Hub
 
-Welcome to my new GitHub account dedicated to **open source software** and the **democratization of AI access** around the globe. I've put repositories on here that I have been working on over the last 2 years. 
+Welcome to my new GitHub account dedicated to **open source software** and the **democratization of AI access** around the globe via Singularity Research Labs (a collection of the brightest minds across the world). I've put repositories on here that I have been working on over the last 2 years. 
 
 ---
 ### About Me
@@ -11,7 +11,7 @@ Welcome to my new GitHub account dedicated to **open source software** and the *
 I am passionate about ensuring that **cutting-edge AI** is accessible to everyone, including underprivileged communities. My repositories here are the culmination of the last two years of research, development, and collaboration.
 
 ---
-### Our Mission
+### Our Mission at Singularity Research Labs
 
 1. **Open Source First**: We believe in the power of community-driven innovation, where transparent collaboration accelerates progress.  
 2. **Democratizing AI**: AI should be free and accessible to all, not just locked behind corporate paywalls and exclusive research labs.  
