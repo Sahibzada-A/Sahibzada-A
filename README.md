@@ -1,13 +1,12 @@
 # Welcome to My Open Source AI Hub
 
-Welcome to my new GitHub account dedicated to **open source software** and the **democratization of AI access** around the globe. 
+Welcome to my new GitHub account dedicated to **open source software** and the **democratization of AI access** around the globe. I've put repositories on here that I have been working on over the last 2 years. 
 
 ---
 ### About Me
 
 - **Name:** Sahibzada A. (Senior AI Engineer @ Singularity Research Labs)
 - **Alma Mater:** Cambridge University 
-- **Experience:** 2+ years of open source AI development, backed by my professional work in AI research and engineering.
 
 I am passionate about ensuring that **cutting-edge AI** is accessible to everyone, including underprivileged communities. My repositories here are the culmination of the last two years of research, development, and collaboration.
 
@@ -18,17 +17,6 @@ I am passionate about ensuring that **cutting-edge AI** is accessible to everyon
 2. **Democratizing AI**: AI should be free and accessible to all, not just locked behind corporate paywalls and exclusive research labs.  
 3. **Empowering Underserved Communities**: We aim to bring advanced AI technologies to underprivileged regions to level the global playing field.  
 4. **Challenging Overinflated AI Startups**: We actively strive to counter the proliferation of GPT-wrapper companies with questionable value and undeserved millions in funding.
-
----
-### Featured Repositories
-
-Below are some of the repositories I’ve been working on:
-
-- **[Project A](#)** – A short description of what it does or aims to achieve.  
-- **[Project B](#)** – Another short description and its impact.  
-- **[Project C](#)** – And so on...
-
-> You can find more details on each project’s page. Contributions, pull requests, and feature suggestions are always welcome.
 
 ---
 ### Join Us and Make a Difference
@@ -44,9 +32,8 @@ We’re building an inclusive, diverse, and globally distributed team of AI enth
 ---
 ### Get in Touch
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)  
-- **LinkedIn**: [Your LinkedIn Profile](#)  
-- **Twitter**: [@YourTwitterHandle](#)
+- **Email**: [your-email@example.com](mailto:sahibzada@singularityresearchlabs.com)  
+- **LinkedIn**: (https://www.linkedin.com/in/sahibal/)
 
 Feel free to reach out with questions, ideas, or proposals. Let’s **shape the future of open source AI** together!
 
